@@ -1,4 +1,4 @@
-a:hover {
+button:hover {
   color: #000000;
   /*text-decoration: underline;*/
 }
@@ -12,7 +12,7 @@ a:hover {
 }
 
 a {
-  color: #3197c2;
+  color: #ffffff;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
@@ -118,6 +118,11 @@ ul.social-buttons li a {
   color: #212529;
   background-color: rgb(115,170,194);
   border-color: rgb(115,170,194);
+}
+
+a:hover {
+  color: #000000;
+  /*text-decoration: underline;*/
 }
 
 a:hover {
